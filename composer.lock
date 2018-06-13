@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "101e22520edfdab4f4b1993fb37bdc22",
+    "content-hash": "31ba0f8cbabc398abac00a70f46aa23c",
     "packages": [
         {
             "name": "mustache/mustache",
@@ -98,28 +98,28 @@
         },
         {
             "name": "zordius/lightncandy",
-            "version": "v1.2.2",
+            "version": "v1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zordius/lightncandy.git",
-                "reference": "448cb2855d7301fa5380d8228255d46e9be92903"
+                "reference": "42a3683aba7867a6b30b7179ab26ebcef93d34cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zordius/lightncandy/zipball/448cb2855d7301fa5380d8228255d46e9be92903",
-                "reference": "448cb2855d7301fa5380d8228255d46e9be92903",
+                "url": "https://api.github.com/repos/zordius/lightncandy/zipball/42a3683aba7867a6b30b7179ab26ebcef93d34cc",
+                "reference": "42a3683aba7867a6b30b7179ab26ebcef93d34cc",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.4.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.8.35"
+                "phpunit/phpunit": "4.0.17"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.2.3-dev"
+                    "dev-master": "1.0.0-dev"
                 }
             },
             "autoload": {
@@ -134,7 +134,7 @@
             "authors": [
                 {
                     "name": "Zordius Chen",
-                    "email": "zordius@gmail.com"
+                    "email": "zordius@yahoo-inc.com"
                 }
             ],
             "description": "An extremely fast PHP implementation of handlebars ( http://handlebarsjs.com/ ) and mustache ( http://mustache.github.io/ ).",
@@ -146,7 +146,7 @@
                 "php",
                 "template"
             ],
-            "time": "2018-03-19T07:06:10+00:00"
+            "time": "2016-12-30T04:28:45+00:00"
         }
     ],
     "packages-dev": [],
