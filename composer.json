@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"minimum-stability":"dev",
 	"require": {
-		"contentasaurus/lightncandy": "dev-master",
+		"zordius/lightncandy": "1.2.2",
 		"mustache/mustache": "~2.7",
 		"phroute/phroute" : "~2.0"
 	},
